@@ -1,6 +1,6 @@
 repos:
--   repo: https://github.com/hmrc/security-git-hooks
-    rev: master
+-   repo: https://github.com/Ramu11650/Git-Hooks.git
+    rev: 44ce391ba84d1dbe78771235e4992019bf2faaba
     hooks:
     -   id: secrets_filename
         files: ''
